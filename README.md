@@ -13,16 +13,16 @@ avoid blockage in drains to promote continuous flow of drainage water which ulti
 # PROBLEM STATEMENT:
 
    - To develop a new sewage cleaning system in our environment
-    -There should be no harm to the society due to the advancement of robotic technology.
-    -In contrast to current systems, this robot operates wireless which significantly increases the range of application areas. 
-	-To manage the robot in the hazardous environment of sewers, the robot has to be designed very carefully.
-	-Present situation of sewage system which shows the low level of the human’s health.
-	-To avoid such situation sewage robots can be launched to make sure it should not harm the welfare of humans.
-	-The description is based on the control hardware and functions of the robotics in sewage environment. 
-	-Using different types of sensors, the robots act on different actions and prepare the moves according to it.
-	-The sensor detects the object and cleans the dust in sewage area.
-	-At current suitation, the peoples are harmed to different hazardous diseases and they are infected by different acids, toxics in sewage.
-	-To avoid such situation robots are been developed
+    - There should be no harm to the society due to the advancement of robotic technology.
+    - In contrast to current systems, this robot operates wireless which significantly increases the range of application areas. 
+- To manage the robot in the hazardous environment of sewers, the robot has to be designed very carefully.
+	- Present situation of sewage system which shows the low level of the human’s health.
+	- To avoid such situation sewage robots can be launched to make sure it should not harm the welfare of humans.
+	- The description is based on the control hardware and functions of the robotics in sewage environment. 
+	- Using different types of sensors, the robots act on different actions and prepare the moves according to it.
+	- The sensor detects the object and cleans the dust in sewage area.
+	- At current suitation, the peoples are harmed to different hazardous diseases and they are infected by different acids, toxics in sewage.
+	- To avoid such situation robots are been developed
 
 
     

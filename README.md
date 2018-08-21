@@ -1,6 +1,8 @@
 # TECH-WARRIORS
 Sewage cleaning robot
 
+![alt text](https://goo.gl/images/67tjGQ)
+
 In today’s era automation and artificial intelligence plays a very important role in all industrial applications for the proper disposal of sewage from
 industries and household is still a challenging task. In India drainage systems are usually open which leads to disposal of
 solid waste and that causes blockage. Drains are used for the adequate disposal of waste and unfortunately sometimes
